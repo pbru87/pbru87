@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm Patrick, Web Developer and [Scrum certified Product Owner (PSPO I)](https://www.scrum.org/certificates/577952).
 - 🛠️ Preferred Tech Stack: Azure, C#, ASP.NET Core, Blazor, Bootstrap.
-- 📫 For more infos see [my LinkedIn profile](https://www.linkedin.com/in/patrick-brunck/) or [my German website](https://www.patrick-brunck.de/).
+- 🧭 For more infos see [my LinkedIn profile](https://www.linkedin.com/in/patrick-brunck/) or [my German website](https://www.patrick-brunck.de/).
 
 <!--
 **pbru87/pbru87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
