@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=clamp&w=3774&h=250&q=80" alt=""/>
-
 - 👨‍💻 I'm Patrick, Web Developer and [Scrum certified Product Owner (PSPO I)](https://www.scrum.org/certificates/577952).
 - 🛠️ Preferred Tech Stack: Azure, C#, ASP.NET Core, Blazor, Bootstrap.
 - 🧭 For more infos see [my LinkedIn profile](https://www.linkedin.com/in/patrick-brunck/) or [my German website](https://www.patrick-brunck.de/).
 
 <!--
+<img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=clamp&w=3774&h=250&q=80" alt=""/>
+
 **pbru87/pbru87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
