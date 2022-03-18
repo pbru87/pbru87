@@ -4,7 +4,7 @@
 - 🛠️ Preferred Tech Stack: Azure, C#, ASP.NET Core, Blazor, Bootstrap.
 - 🧭 For more infos see [my LinkedIn profile](https://www.linkedin.com/in/patrick-brunck/) or [my German website](https://www.patrick-brunck.de/).
 
-<img src="https://images.unsplash.com/photo-1644945428609-0e7f21cd2a3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&h=400&q=80" alt=""/>
+<img src="https://images.unsplash.com/photo-1645037077639-7e3d8e72f88d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt=""/>
 
 <!--
 **pbru87/pbru87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
