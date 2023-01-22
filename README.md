@@ -6,9 +6,20 @@
 
 ### Hi there 👋
 
-- 👨‍💻 I'm Patrick, Web Developer and [Scrum certified Product Owner (PSPO I)](https://www.scrum.org/certificates/577952).
+- 👨‍💻 I'm Patrick, Web Developer and [Scrum certified Product Owner (PSPO I)](https://www.scrum.org/user/726482).
 - 🛠️ Preferred Tech Stack: Azure, C#, ASP.NET Core, Blazor, Bootstrap.
 - 🧭 For more infos see [my LinkedIn profile](https://www.linkedin.com/in/patrick-brunck/) or [my German website](https://www.patrick-brunck.de/).
+
+### Recent blog posts
+
+- **Upcoming:** Blazor Wasm – Add Authentication and Authorization with Auth0
+- [How to create a custom project template for Visual Studio?](http://bit.ly/3WuFlUX)
+- [Packing Lists: Do you already use them in your everyday life?](http://bit.ly/3XQw4aL)
+
+### What else?
+
+- Do you need a more up-to-date version of the **[Shariff](https://github.com/heiseonline/shariff)** social media buttons? Here it is: https://github.com/heiseonline/shariff/issues/387#issuecomment-761699783.
+- How about an enhanced "*Console App*" project template for Visual Studio? (http://bit.ly/3ZPXhML)
 
 <!--
 <img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=clamp&w=3774&h=250&q=80" alt=""/>
