@@ -18,8 +18,9 @@
 
 ### What else?
 
-- Do you need a more up-to-date version of the **[Shariff](https://github.com/heiseonline/shariff)** social media buttons? Here it is: https://github.com/heiseonline/shariff/issues/387#issuecomment-761699783.
+- Do you need a more up-to-date version of the [Shariff](https://github.com/heiseonline/shariff) social media buttons? Here it is: https://github.com/heiseonline/shariff/issues/387#issuecomment-761699783.
 - How about an enhanced "*Console App*" project template for Visual Studio? (http://bit.ly/3ZPXhML)
+- Would you like to host your own web server via [netcup](https://www.netcup.eu/) (which I can recommend)? [Here are some vouchers](http://bit.ly/3SConnw).
 
 <!--
 <img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=clamp&w=3774&h=250&q=80" alt=""/>
