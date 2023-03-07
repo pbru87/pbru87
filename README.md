@@ -7,12 +7,13 @@
 ### Hi there 👋
 
 - 👨‍💻 I'm Patrick, Web Developer and [Scrum certified Product Owner (PSPO I)](https://www.scrum.org/user/726482).
-- 🛠️ Preferred Tech Stack: Azure, C#, ASP.NET Core, Blazor, Bootstrap.
+- 🛠️ Preferred Tech Stack: C#, ASP.NET Core, Blazor, Bootstrap.
 - 🧭 For more infos see [my LinkedIn profile](https://www.linkedin.com/in/patrick-brunck/) or [my German website](https://www.patrick-brunck.de/).
 
 ### Recent blog posts
 
 - **Upcoming:** Blazor Wasm – Add Authentication and Authorization with Auth0
+- [Create a mini landing page and QR code via Bitly](https://bit.ly/3mfAD13)
 - [How to create a custom project template for Visual Studio?](http://bit.ly/3WuFlUX)
 - [Packing Lists: Do you already use them in your everyday life?](http://bit.ly/3XQw4aL)
 
