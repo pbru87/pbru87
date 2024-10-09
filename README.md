@@ -13,6 +13,7 @@
 ### Recent blog posts
 
 - **Upcoming:** Blazor Wasm – Add Authentication and Authorization with Auth0
+- [Gource: Developers' Work Visualized](https://blog.patrickbrunck.com/gource-developers-work-visualized/)
 - [Create a mini landing page and QR code via Bitly](https://bit.ly/3mfAD13)
 - [How to create a custom project template for Visual Studio?](http://bit.ly/3WuFlUX)
 - [Packing Lists: Do you already use them in your everyday life?](http://bit.ly/3XQw4aL)
